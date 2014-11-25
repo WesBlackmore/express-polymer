@@ -6,7 +6,8 @@
     "paper-elements": "Polymer/paper-elements#~0.5.1",
     "polymer": "Polymer/polymer#^0.4.0",
     "firebase-element": "Polymer/firebase-element#~0.5.1",
-    "app-router": "~2.0.4"
+    "app-router": "~2.0.4",
+    "pvc-globals": "Divshot/pvc-globals"
   },
   "devDependencies": {
     "polymer-test-tools": "Polymer/polymer-test-tools#^0.4.0"
@@ -46,6 +47,8 @@
     "paper-slider": "^0.5.0",
     "paper-tabs": "^0.5.0",
     "paper-toast": "^0.5.0",
-    "paper-toggle-button": "^0.5.0"
+    "paper-toggle-button": "^0.5.0",
+    "core-component-page": "^0.5.0",
+    "polymer": "^0.5.0"
   }
 }
