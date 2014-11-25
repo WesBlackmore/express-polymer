@@ -13,19 +13,16 @@
   <link rel="stylesheet" href="styles/main.css">
   <!-- endbuild-->
 
-  <script src="bower_components/platform/platform.js"></script>
+  <script src="bower_components/webcomponentsjs/webcomponents.js"></script>
   <!-- build:vulcanized elements/elements.vulcanized.html -->
-  <link rel="import" href="elements/elements.html">
+ <link rel="import" href="elements/app.html">
   <!-- endbuild-->
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=RobotoDraft:300,400,500">
 </head>
 
-<body unresolved>
+<body fullbleed unresolved>
+  <qa-app></qa-app>
 
-  <div class="hero-unit">
-    <yo-greeting></yo-greeting>
-    <p>You now have</p>
-    <yo-list></yo-list>
-  </div>
 
   <!-- build:js scripts/app.js -->
   <script src="scripts/app.js"></script>

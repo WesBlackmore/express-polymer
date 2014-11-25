@@ -3,10 +3,49 @@
   "version": "0.0.0",
   "dependencies": {
     "core-elements": "Polymer/core-elements#^0.4.0",
-    "paper-elements": "Polymer/paper-elements#^0.4.0",
-    "polymer": "Polymer/polymer#^0.4.0"
+    "paper-elements": "Polymer/paper-elements#~0.5.1",
+    "polymer": "Polymer/polymer#^0.4.0",
+    "firebase-element": "Polymer/firebase-element#~0.5.1",
+    "app-router": "~2.0.4"
   },
   "devDependencies": {
     "polymer-test-tools": "Polymer/polymer-test-tools#^0.4.0"
+  },
+  "resolutions": {
+    "core-icon": "^0.5.0",
+    "core-header-panel": "^0.5.0",
+    "core-media-query": "^0.5.0",
+    "core-menu": "^0.5.0",
+    "core-meta": "^0.5.0",
+    "core-overlay": "^0.5.0",
+    "core-range": "^0.5.0",
+    "core-scroll-header-panel": "^0.5.0",
+    "core-selection": "^0.5.0",
+    "core-selector": "^0.5.0",
+    "core-style": "^0.5.0",
+    "core-toolbar": "^0.5.0",
+    "paper-fab": "^0.5.0",
+    "paper-icon-button": "^0.5.0",
+    "paper-button": "^0.5.0",
+    "paper-ripple": "^0.5.0",
+    "font-roboto": "^0.5.0",
+    "paper-shadow": "^0.5.0",
+    "core-transition": "^0.5.0",
+    "sampler-scaffold": "^0.5.0",
+    "paper-elements": "~0.5.1",
+    "paper-checkbox": "^0.5.0",
+    "paper-dialog": "^0.5.0",
+    "paper-dropdown-menu": "^0.5.0",
+    "paper-input": "^0.5.0",
+    "paper-item": "^0.5.0",
+    "paper-menu-button": "^0.5.0",
+    "paper-progress": "^0.5.0",
+    "paper-radio-button": "^0.5.0",
+    "core-a11y-keys": "^0.5.0",
+    "paper-radio-group": "^0.5.0",
+    "paper-slider": "^0.5.0",
+    "paper-tabs": "^0.5.0",
+    "paper-toast": "^0.5.0",
+    "paper-toggle-button": "^0.5.0"
   }
 }
