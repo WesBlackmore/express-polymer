@@ -33,13 +33,13 @@ http://expressjs.com/migrating-4.html#app-gen
 
 Install express generator ```npm install -g express-generator```
 
-Init a new Express app express .
+Init a new Express app ```express .```
 
 yo polymer
 ===============
 
 Using the Yeoman generator called generator-polymer. https://github.com/yeoman/generator-polymer
 
-Install the generator npm install -g generator-polymer
+Install the generator ```npm install -g generator-polymer```
 
-Scaffold a new Polymer project: yo polymer
+Scaffold a new Polymer project: ```yo polymer```
