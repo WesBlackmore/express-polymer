@@ -47,8 +47,8 @@ Scaffold a new Polymer project: ```yo polymer```
 Install
 ===============
 
-Clone this repo: 
+- Clone this repo: 
 ```git clone https://github.com/WesBlackmore/express-polymer.git```
-Run these to get the latest dependencies:
-```npm install```` 
-```bower install```
+- Run these to get the latest dependencies:
+	```npm install```` 
+	```bower install```
