@@ -11,9 +11,9 @@ On a Mac
 - Install Nodejs & NPM
 - Install Git
 - Install NPM Packages
--- grunt-cli
--- bower
--- yeoman
--- generator-polymer
--- express-generator
--- livereload
+	- grunt-cli
+	- bower
+	- yeoman
+	- generator-polymer
+	- express-generator
+	- livereload
