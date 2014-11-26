@@ -31,7 +31,7 @@ Express
 
 http://expressjs.com/migrating-4.html#app-gen
 
-Install express generator npm install -g express-generator
+Install express generator ```npm install -g express-generator```
 
 Init a new Express app express .
 
