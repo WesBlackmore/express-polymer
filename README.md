@@ -43,3 +43,12 @@ Using the Yeoman generator called generator-polymer. https://github.com/yeoman/g
 Install the generator ```npm install -g generator-polymer```
 
 Scaffold a new Polymer project: ```yo polymer```
+
+Install
+===============
+
+Clone this repo: 
+```git clone https://github.com/WesBlackmore/express-polymer.git```
+Run these to get the latest dependencies:
+```npm install```` 
+```bower install```
