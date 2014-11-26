@@ -49,6 +49,4 @@ Install
 
 - Clone this repo: 
 ```git clone https://github.com/WesBlackmore/express-polymer.git```
-- Run these to get the latest dependencies:
-	```npm install```` 
-	```bower install```
+- Run these to get the latest dependencies: ```sudo npm install``` & ```bower install```
