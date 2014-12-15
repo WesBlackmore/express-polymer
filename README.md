@@ -1,6 +1,8 @@
 express-polymer
 ===============
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/WesBlackmore/express-polymer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Express and Polymer scaffolding using Yeoman
 
 This has all been taken from @stevefloat great basic tutorial of how to setup Polymer scaffolding using Express as the server.
